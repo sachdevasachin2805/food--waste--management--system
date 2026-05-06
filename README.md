@@ -1,4 +1,4 @@
-Se# 🍱 Food Waste Management System
+ 🍱 Food Waste Management System
 
 A smart food donation and waste management platform developed using Streamlit and PostgreSQL.
 
