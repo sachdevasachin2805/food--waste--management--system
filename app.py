@@ -1114,7 +1114,7 @@ def show_footer():
         🍽️ <b>Food Wastage Management System</b> | 
         Reducing food waste, one meal at a time | 
         Powered by <b>Neon PostgreSQL</b> & <b>Streamlit</b> | 
-        Deployed on <b>Hugging Face Spaces</b>
+        Deployed on <b>Replit</b>
     </div>
     """, unsafe_allow_html=True)
 
