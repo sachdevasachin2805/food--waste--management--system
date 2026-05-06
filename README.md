@@ -67,6 +67,10 @@ streamlit run app.py
 
 ---
 
+## DEMO LINK
+
+https://food-waste-platformmm--sachinsachdeva3.replit.app
+
 ## 👨‍💻 Developed By
 
 Sachin Sachdeva  
