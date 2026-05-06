@@ -1,0 +1,8 @@
+streamlit
+psycopg2-binary
+pandas
+plotly
+python-dotenv
+numpy
+opencv-python-headless
+matplotlib
