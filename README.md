@@ -1,39 +1,73 @@
----
-title: Food Wastage Management System
-emoji: 🍽️
-colorFrom: green
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.28.1
-python_version: 3.9.13
-app_file: app.py
-pinned: false
-license: mit
+Se# 🍱 Food Waste Management System
+
+A smart food donation and waste management platform developed using Streamlit and PostgreSQL.
+
 ---
 
-# 🍽️ Food Wastage Management System
+## 📌 Features
 
-A comprehensive web application for managing food waste by connecting food providers with receivers who need food. Built with Streamlit and powered by Neon PostgreSQL.
+- Food donation system
+- NGO/receiver management
+- Claim handling
+- Analytics dashboard
+- Real-time data visualization
+- Food availability tracking
 
-## ✨ Features
+---
 
-- **📊 Dashboard**: Real-time metrics and visualizations
-- **🍽️ Food Management**: Browse and claim available food items
-- **➕ Add Items**: Easy interface for providers to add food
-- **🏢 Provider Management**: Manage food providers and donors
-- **🏠 Receiver Management**: Manage food receivers and beneficiaries
-- **📋 Claims Tracking**: Track food distribution and claims
-- **📈 Analytics**: Comprehensive analytics and insights
-- **🔍 Data Quality**: Monitor system health and data integrity
+## 🛠️ Technologies Used
 
-## 🚀 Quick Start
+### Frontend/UI
+- Streamlit
 
-This application is deployed on Hugging Face Spaces and connects to a Neon PostgreSQL database.
+### Backend
+- Python
 
-### Environment Variables
+### Database
+- PostgreSQL
+- psycopg2
 
-Set the following environment variable in your Hugging Face Space:
+### Data Visualization
+- Plotly
+- Pandas
+- Matplotlib
+- NumPy
 
-- `DATABASE_URL`: Your Neon PostgreSQL connection string
+### Other Libraries
+- OpenCV
+- python-dotenv
 
-Example:
+---
+
+## 🚀 Installation
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 📊 Project Modules
+
+- Donor Module
+- Receiver Module
+- Admin Dashboard
+- Analytics Module
+- Food Claims Management
+
+---
+
+## 🔮 Future Scope
+
+- AI-based food expiry prediction
+- Mobile app integration
+- Live delivery tracking
+- NGO verification system
+
+---
+
+## 👨‍💻 Developed By
+
+Sachin Sachdeva  
+BCA Major Project 2026
